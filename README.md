@@ -90,6 +90,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/starroy/starroy/blob/main/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+  <img src="https://github.com/starroy/starroy/blob/main/img/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
 </p>
 <br clear ="both" >
